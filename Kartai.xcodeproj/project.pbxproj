@@ -82,10 +82,6 @@
 		9219A6112B4030AA00FB9AEE = {
 			isa = PBXGroup;
 			children = (
-				92D38A852B57EA840052F6EE /* ListView.swift */,
-				92D38A832B57E9B10052F6EE /* SettingsView.swift */,
-				92D38A812B57E76F0052F6EE /* CardBack.swift */,
-				92D38A7F2B57E7050052F6EE /* CardFront.swift */,
 				9219A61C2B4030AA00FB9AEE /* Kartai */,
 				9219A62D2B4030AC00FB9AEE /* KartaiTests */,
 				9219A6372B4030AC00FB9AEE /* KartaiUITests */,
@@ -108,6 +104,10 @@
 			children = (
 				9219A61D2B4030AA00FB9AEE /* KartaiApp.swift */,
 				9219A61F2B4030AA00FB9AEE /* ContentView.swift */,
+				92D38A852B57EA840052F6EE /* ListView.swift */,
+				92D38A812B57E76F0052F6EE /* CardBack.swift */,
+				92D38A7F2B57E7050052F6EE /* CardFront.swift */,
+				92D38A832B57E9B10052F6EE /* SettingsView.swift */,
 				9219A6212B4030AC00FB9AEE /* Assets.xcassets */,
 				9219A6232B4030AC00FB9AEE /* Preview Content */,
 			);
